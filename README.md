@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final Year Computer Science student at **Mohammad Ali Jinnah University**
-- 💼 DevOps Engineer at **IFBC.co** (USA-based startup)
+- 💼 DevOps Engineer at **IFBC.co**
 - 🌐 Building **WinLink** – a Windows-based distributed compute solution for power users
 - 🧠 Currently working with **AWS, CI/CD, Terraform, Docker, VPCs, ECS, Beanstalk, RDS**
 - 🔄 Passionate about **automation, cloud infrastructure, and scalable systems**
