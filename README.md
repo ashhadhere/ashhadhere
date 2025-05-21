@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | AWS </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AWS+Cloud+Engineer+%7C+DevOps+Intern;CI%2FCD+Pipeline+Specialist+%7C+GitHub+Actions;Final+Year+CS+Student+%40+MAJU;Lover+of+Automation%2C+Cloud%2C+and+Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AWS+Cloud+Engineer+%7C+DevOps+Engineer;CI%2FCD+Pipeline+Specialist+%7C+GitHub+Actions;Final+Year+CS+Student+%40+MAJU;Lover+of+Automation%2C+Cloud%2C+and+Linux" />
 </p>
 
 ---
